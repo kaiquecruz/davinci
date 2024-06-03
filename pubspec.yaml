@@ -15,7 +15,7 @@ dependencies:
   gallery_saver: 
     git:
       url: git://github.com/kaiquecruz/gallery_saver.git
-      ref: 'main' 
+      ref: 'master' 
 
 dev_dependencies:
   flutter_test:
